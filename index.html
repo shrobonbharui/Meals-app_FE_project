@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meal_app</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
+    <link rel="stylesheet" href="styel.css">
+</head>
+<body>
+    <div id="main">
+        <div class="overlay">
+            <nav id="nav">
+                <div id="nav1"><img src="img/mEal.jpg" alt="logo"></div>
+                <div id="nav2">
+                    <ul id="list">
+                        <li id="l1"><a href="/"><i class="fa fa-home"></i></a></li>
+                        <li id="l2"><a href=""><i class="fa-solid fa-rotate-right"></i></a></li>
+                        <li id="l3"><a href="#"><i class="fa-solid fa-heart"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+            <!--Create a container for the search bar  -->
+            <div class="container">
+                <div id="serchbar">
+                    <!-- Create a text input for the search bar -->
+                    <input type="text" id="search" placeholder="Search for a meal">
+                    <!-- Create a button to submit the search query -->
+                    <button type="submit" id="button"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </div>
+            <!-- Create a div to hold the search results -->
+            <div id="search-results"></div>
+        </div>
+    </div>    
+    <!-- Link to an external JavaScript file -->
+    <script src="main.js"></script>
+    
+</body>
+</html>
