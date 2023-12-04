@@ -15,6 +15,8 @@ This is Meals app Where you can know about your favourites meals. You can search
     3.JavaScript
 # Demo
  https://shrobonbharui.github.io/Meals-app_FE_project/
+# Contributors
+   Shrobon Bharui
 # Screenshots
 1. Home Page :-
 
