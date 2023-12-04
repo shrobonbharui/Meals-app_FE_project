@@ -14,12 +14,19 @@ This is Meals app Where you can know about your favourites meals. You can search
     2.CSS 
     3.JavaScript
 # Demo
-
-
+ https://shrobonbharui.github.io/Meals-app_FE_project/
 # Screenshots
-Home Page :-
+1. Home Page :-
 
-Home Page :-
+![meal_app - Google Chrome 04-12-2023 21_36_35](https://github.com/shrobonbharui/Meals-app_FE_project/assets/137638109/d14a44ab-4925-4d5b-85e9-d9199c015f7f)
 
-Home Page :-
+2. Favourite Section :-
+
+![meal_app - Google Chrome 04-12-2023 21_38_14](https://github.com/shrobonbharui/Meals-app_FE_project/assets/137638109/f44f6b78-3f86-4d9b-9894-dc8c4511e0cc)
+
+3. Recipe Instruction Page :-
+
+![meal_app - Google Chrome 04-12-2023 21_37_51](https://github.com/shrobonbharui/Meals-app_FE_project/assets/137638109/5ef9185f-6c4e-44d9-96e9-6ce0b75c1bb2)
+
+
 
